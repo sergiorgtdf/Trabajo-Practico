@@ -1,8 +1,12 @@
 Tipo de redes
 
-PAN
-LAN
-CAN
-MAN
-WAN
+PAN: Personal Area Network. este tipo de red se caracteriza por tener alcance de unos pocos metros, la mas utilizada es la Bluetooth
+
+LAN. Local Area Network. Red de area local, se utiliza para hogares, edificios. Puede se cableada o inalambrica
+
+CAN. Campus Area Network, es un tipo de red que conecta varias redes tipo LAN
+
+MAN: Metropolitan Area Network. Este tipo de red abarca grandes extensiones dentro de una localidad, se comunica a traves de fibra optica o enlaces satelitales, utilizadas en municipios
+
+WAN. Wide Area Network, Este tipo de red es conectada a traves de cables interoceanicos, permite conectar grandes extensiones
 
