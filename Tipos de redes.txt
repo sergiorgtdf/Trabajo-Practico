@@ -1,0 +1,8 @@
+Tipo de redes
+
+PAN
+LAN
+CAN
+MAN
+WAN
+
