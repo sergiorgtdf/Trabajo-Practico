@@ -1,4 +1,5 @@
-Tipo de redes 
+Tipo de redes
+
 
 PAN: Personal Area Network. este tipo de red se caracteriza por tener alcance de unos pocos metros, la mas utilizada es la Bluetooth
 
